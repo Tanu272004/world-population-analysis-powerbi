@@ -46,3 +46,4 @@ This dashboard provides a comprehensive view of population growth trends and can
 Project_Link: https://github.com/Tanu272004/world-population-analysis-powerbi.git
 github Link: https://github.com/Tanu272004
 LinkedIn: https://www.linkedin.com/in/tanmay-sharma-800599373/
+Prodigy_Infotech_Link: https://github.com/Prodigy-InfoTech?utm_source=chatgpt.com
